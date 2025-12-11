@@ -16,6 +16,13 @@ const produtos = [
   { nome:"Flocão Nordestino 500G", preco:1.65, foto:"img/nordestino.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Açucar Cristal Da Roça 1KG", preco:3.25, foto:"img/daroca.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Açucar Demerara Da Roça 1KG", preco:5.39, foto:"img/demerara.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Vitarella Fino 400G", preco:2.99, foto:"img/vitafino.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Vitarella Parafuso 400G", preco:4.25, foto:"img/vitaparafuso.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Vitarella Penne 400G", preco:4.25, foto:"img/vitapenne.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Vitarella Ninho 400G", preco:4.59, foto:"img/vitaninho.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Vitarella De Lasanha 500G", preco:7.99, foto:"img/vitalasanha.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão Pilar Ninho 400G", preco:4.59, foto:"img/pilarninho.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Macarrão pilar Parafuso 400G", preco:4.25, foto:"img/pilarparafuso.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Sal Leste 1kg", preco:1.25, foto:"img/sal.png", categoria:"Mercearia", tipo:"und", ativo:1 },
 
   //Frios:
@@ -31,7 +38,7 @@ const produtos = [
   ]},
 
   //Confeitaria:
-  { nome:"Chantilly Amélia Supreme 1L", preco:25.99, foto:"img/amelia.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
+  { nome:"Chantilly Amélia Supreme 1L", preco:26.99, foto:"img/amelia.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Triangulo 395G", preco:5.49, foto:"img/leitetriangulo.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Natville 395G", preco:5.79, foto:"img/condnatvile.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Piracanjuba 395G", preco:6.49, foto:"img/leitepira.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
@@ -42,11 +49,12 @@ const produtos = [
   { nome:"Creme De Leite Piracanjuba 200G", preco:3.25, foto:"img/cremepira.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Creme De Leite Betânia 200G", preco:3.25, foto:"img/cremebeta.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Creme De Leite Italac Leve 200G", preco:3.39, foto:"img/cremeitalac.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
-  { nome:"Leite Liquido Integral Valedourado 1LT", preco:5.79, foto:"img/leitevale.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
+  { nome:"Leite Liquido Integral Valedourado 1LT", preco:5.79, foto:"img/leitevale.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
   { nome:"Leite Liquido Integral Elegê 1LT", preco:5.79, foto:"img/leiteele.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
+  { nome:"Leite Liquido Integral Betânia 1LT", preco:5.99, foto:"img/leitebeta.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
   { nome:"Chocolate Fracionado 50%", preco:45.99, foto:"img/fracionado.png", categoria:"Confeitaria", tipo:"kg", ativo:1 },
   { nome:"Chocolate Doceiro 50% 1KG", preco:39.99, foto:"img/doceiro.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
-  { nome:"Chocolate Damare 50% 1KG", preco:39.99, foto:"img/damare50.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
+  { nome:"Chocolate Damare 50% 1KG", preco:39.99, foto:"img/damare50.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
   { nome:"Chocolate Selecta Namur 50% 1KG", preco:45.99, foto:"img/namur.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
 
   { nome:"Corante em Gel Vovó Deli 25G", preco:4.99, foto:"img/corante.png", categoria:"Confeitaria", tipo:"und", ativo:1, variacoes:[
