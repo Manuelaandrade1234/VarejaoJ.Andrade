@@ -3,9 +3,19 @@
 // ==========================
 const produtos = [
   //Mercearia:
+  { nome:"Feijão Mulatinho Da Serra 1KG", preco:5.79, foto:"img/mulatinho.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Feijão Preto Serra Verde 1KG", preco:5.49, foto:"img/preto.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Feijão Macassar Serra Verde 1KG", preco:5.79, foto:"img/macassar.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Arroz Parborizado Serra Verde 1KG", preco:3.49, foto:"img/serra.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Arroz Parborizado Pop 1KG", preco:3.59, foto:"img/pop.png", categoria:"Mercearia", tipo:"und", ativo:1 },
-  { nome:"Arroz Branco Pop 1KG", preco:3.49, foto:"img/popbranco.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Arroz Branco Pop 1KG", preco:4.99, foto:"img/popbranco.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Farinha De Mandioca Feira Nova 1KG", preco:3.75, foto:"img/farinha.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Flocão Gostosin 400G", preco:1.25, foto:"img/gostosin.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Flocão NovoMilho 500G", preco:1.75, foto:"img/novomilho.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Flocão São Braz 500G", preco:1.49, foto:"img/saobraz.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Flocão Nordestino 500G", preco:1.65, foto:"img/nordestino.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Açucar Cristal Da Roça 1KG", preco:3.25, foto:"img/daroca.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Açucar Demerara Da Roça 1KG", preco:5.39, foto:"img/demerara.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Sal Leste 1kg", preco:1.25, foto:"img/sal.png", categoria:"Mercearia", tipo:"und", ativo:1 },
 
   //Frios:
