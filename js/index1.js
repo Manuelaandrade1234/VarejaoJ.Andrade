@@ -26,9 +26,9 @@ const produtos = [
   { nome:"Sal Leste 1kg", preco:1.25, foto:"img/sal.png", categoria:"Mercearia", tipo:"und", ativo:1 },
 
   //Frios:
-  { nome:"Queijo Mussarela KG", preco:32.50, foto:"img/mussarela.png", categoria:"Frios", tipo:"kg", ativo:1 },
+  { nome:"Queijo Mussarela KG", preco:32.99, foto:"img/mussarela.png", categoria:"Frios", tipo:"kg", ativo:1 },
   { nome:"Queijo Coalho Natural KG", preco:27.99, foto:"img/coalho.png", categoria:"Frios", tipo:"kg", ativo:1 },
-  { nome:"Queijo Coalho Furadinho KG", preco:27.99, foto:"img/furadinho.png", categoria:"Frios", tipo:"kg", ativo:1 },
+  { nome:"Queijo Coalho Furadinho KG", preco:29.99, foto:"img/furadinho.png", categoria:"Frios", tipo:"kg", ativo:1 },
 
   //Hortifruti:
   { nome:"Ovos", preco:0, foto:"img/ovos.png", categoria:"Hortifruti", tipo:"und", ativo:1, variacoes:[
