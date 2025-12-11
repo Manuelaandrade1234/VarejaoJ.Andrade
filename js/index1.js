@@ -3,8 +3,9 @@
 // ==========================
 const produtos = [
   //Mercearia:
-  { nome:"Arroz Parborizado Pop 1KG", preco:3.59, foto:"img/pop.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Arroz Parborizado Serra Verde 1KG", preco:3.49, foto:"img/serra.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Arroz Parborizado Pop 1KG", preco:3.59, foto:"img/pop.png", categoria:"Mercearia", tipo:"und", ativo:1 },
+  { nome:"Arroz Branco Pop 1KG", preco:3.49, foto:"img/popbranco.png", categoria:"Mercearia", tipo:"und", ativo:1 },
   { nome:"Sal Leste 1kg", preco:1.25, foto:"img/sal.png", categoria:"Mercearia", tipo:"und", ativo:1 },
 
   //Frios:
