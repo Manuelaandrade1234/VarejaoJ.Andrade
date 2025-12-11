@@ -51,7 +51,7 @@ const produtos = [
   { nome:"Creme De Leite Italac Leve 200G", preco:3.39, foto:"img/cremeitalac.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Liquido Integral Valedourado 1LT", preco:5.79, foto:"img/leitevale.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
   { nome:"Leite Liquido Integral Elegê 1LT", preco:5.79, foto:"img/leiteele.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
-  { nome:"Leite Liquido Integral Betânia 1LT", preco:5.99, foto:"img/leitebeta.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
+  { nome:"Leite Liquido Integral Betânia 1LT", preco:5.99, foto:"img/leitebeta.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Chocolate Fracionado 50%", preco:45.99, foto:"img/fracionado.png", categoria:"Confeitaria", tipo:"kg", ativo:1 },
   { nome:"Chocolate Doceiro 50% 1KG", preco:39.99, foto:"img/doceiro.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Chocolate Damare 50% 1KG", preco:39.99, foto:"img/damare50.png", categoria:"Confeitaria", tipo:"und", ativo:0 },
