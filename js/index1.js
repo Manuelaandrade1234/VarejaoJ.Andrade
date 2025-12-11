@@ -40,7 +40,7 @@ const produtos = [
   //Confeitaria:
   { nome:"Chantilly Amélia Supreme 1L", preco:26.99, foto:"img/amelia.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Triangulo 395G", preco:5.49, foto:"img/leitetriangulo.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
-  { nome:"Leite Condensado Natville 395G", preco:5.79, foto:"img/condnatvile.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
+  { nome:"Leite Condensado Natville 395G", preco:5.49, foto:"img/condnatvile.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Piracanjuba 395G", preco:6.49, foto:"img/leitepira.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Italac 395G", preco:6.79, foto:"img/leite.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
   { nome:"Leite Condensado Camponesa 395G", preco:6.99, foto:"img/condcamponesa.png", categoria:"Confeitaria", tipo:"und", ativo:1 },
